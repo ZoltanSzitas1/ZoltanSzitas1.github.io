@@ -1,0 +1,37 @@
+body{
+    background-image: url("assets/topography.png");
+    font-family: consolas;
+}
+div{
+    padding: 5px 10%;
+}
+.NavBar{
+    background-color: #333333;
+}
+.navbar img{
+    float:left;
+}
+.NavBar a{
+    float: right;
+    color: #ff0099;
+    margin:5px 15px;
+}
+.aboutme h1{
+    margin: 50px 0px 30px 0px;
+}
+.aboutme p{
+    font-size: 16px;
+}
+.aboutme h2{
+    color:#ff0099;
+}
+.separator{
+    text-align: center;
+}
+.walloftext p{
+    font-size: 14px;
+    line-height: 30px;
+}
+.walloftext h1{
+    text-align: center;
+}
